@@ -1,6 +1,6 @@
 # Webpack starter
 
-Este es la base inicial para cresar aplicaciones usando webpack
+Este es la base inicial para crear aplicaciones usando webpack
 
 ### Notas:
 Reconstruir los modulos de Node con:
